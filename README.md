@@ -10,3 +10,8 @@
 #### dividing_truth_set.ipynb: this file splits our large dataset into smaller pieces
 #### assembling_the_truth.ipynb: this file assembles the consolidated truth set necessary for executing the final notebook
 #### final_notebook.ipynb: this file contains the final draft of our Jupyter Notebook, which was used to generate statistical models
+#### split_truth_1.csv: this file contains a piece of the dataset
+#### split_truth_2.csv: this file contains a piece of the dataset
+#### split_truth_3.csv: this file contains a piece of the dataset
+#### split_truth_4.csv: this file contains a piece of the dataset
+#### split_truth_5.csv: this file contains a piece of the dataset
