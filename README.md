@@ -1,4 +1,4 @@
-# README
+# Star Classification Project
 ## Project Overview
 ### Group Members: Zhiyan (Hermione) Deng, Elizabeth Hora, Vanessa Venkataraman
 #### This repository showcases our group submission for our final project for the DATA-201: Python and Machine Learning course at Tufts University for the completion of the Master's program. 
